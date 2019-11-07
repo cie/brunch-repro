@@ -1,0 +1,20 @@
+dependencies:
+  a: github.com/cie/brunch-repro-a/3ede21dd0aef426d294f3f87590e6dea68302f38
+lockfileVersion: 5.1
+packages:
+  github.com/cie/brunch-repro-a/3ede21dd0aef426d294f3f87590e6dea68302f38:
+    dependencies:
+      b: github.com/cie/brunch-repro-b/7e68ddb4661f7bda9dea6945e1c677e92506100a
+    dev: false
+    name: a
+    resolution:
+      tarball: 'https://codeload.github.com/cie/brunch-repro-a/tar.gz/3ede21dd0aef426d294f3f87590e6dea68302f38'
+    version: 1.0.0
+  github.com/cie/brunch-repro-b/7e68ddb4661f7bda9dea6945e1c677e92506100a:
+    dev: false
+    name: b
+    resolution:
+      tarball: 'https://codeload.github.com/cie/brunch-repro-b/tar.gz/7e68ddb4661f7bda9dea6945e1c677e92506100a'
+    version: 1.0.0
+specifiers:
+  a: 'github:cie/brunch-repro-a'
